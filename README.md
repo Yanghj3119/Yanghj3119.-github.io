@@ -1,5 +1,3 @@
-[Uploading googleaibootcamp_groupG-해커톤1_1.html…]()
-<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
